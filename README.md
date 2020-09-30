@@ -3,7 +3,7 @@
 ## Informações
 
 **Repositório da disciplina de Computação Gráfica, ufms 2019-2.**
-**Sobre este repositório:** m
+**Sobre este repositório:**
 
 #### Oque é?
  * Repositório dos códigos fontes da disciplina, materias disponibilizados em sala, slides e trabalhos.
