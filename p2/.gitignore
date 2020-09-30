@@ -1,0 +1,7 @@
+﻿# Add any directories, files, or patterns you don't want to be tracked by version control
+build/vs2019/.vs/
+build/vs2019/x64/
+*.ilk
+*.pdb
+*.iobj
+*.ipdb
